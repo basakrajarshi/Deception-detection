@@ -1,0 +1,7 @@
+(1) basak-rajarshi-assgn5.py is the program that 
+uses both the deception dataset and the sentiment 
+dataset (by training on them) and generates
+the predictions.
+
+(2) basak-rajarshi-assgn5-2.py generates the predictions
+based only on the Deception dataset.
